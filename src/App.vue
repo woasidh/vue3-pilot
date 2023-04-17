@@ -34,8 +34,8 @@ export default {
 
     const changerPet = () => {
       pet.value = {
-        type: 'elephant',
-        name: 'woori',
+        type: 'cat',
+        name: 'woori1',
       }
     }
 
